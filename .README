@@ -5,4 +5,6 @@ You can look at your friends and your current games as well. It's a userful tool
 get infomation about yours or another person's profile.
 
 INSTRUCTIONS:
-Simply download the finals and run the uiFinal.py final and it will run the program!
+Simply download the files, you'll need to generate your own STEAM API key in order 
+to run the program. Put the API key in the .env file in the parentheses. 
+Once you do that you're good to go, simply open the program and run the uiFinal.py final and it will run the program!
